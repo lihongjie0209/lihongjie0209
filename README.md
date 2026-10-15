@@ -12,21 +12,29 @@
 
 </div>
 
-## 精选项目
+## 项目
 
-| [📄 docx-jsx](https://github.com/lihongjie0209/docx-jsx) | [📊 xlsx-jsx](https://github.com/lihongjie0209/xlsx-jsx) |
-| --- | --- |
-| 用 JSX/TSX 描述 Word 文档，编译为 DOCX，并将支持的 DOCX 逆向为 JSX。 | 用 JSX/TSX 描述 Excel 工作簿，构建 XLSX，并将支持的工作簿逆向为 JSX。 |
-| Rust CLI · 内嵌 V8 · `docx-rs` | Rust CLI · 内嵌 V8 |
-| [查看项目与文档 →](https://github.com/lihongjie0209/docx-jsx) | [查看项目与文档 →](https://github.com/lihongjie0209/xlsx-jsx) |
+### 文档自动化
 
-## 运维工具
+#### [📄 docx-jsx](https://github.com/lihongjie0209/docx-jsx)
 
-### [🧽 server-sponge](https://github.com/lihongjie0209/server-sponge)
+用 JSX/TSX 描述 Word 文档并编译为 DOCX，也支持将部分 DOCX 逆向为 JSX。
+
+`Rust` · `CLI` · `内嵌 V8` · `docx-rs`
+
+#### [📊 xlsx-jsx](https://github.com/lihongjie0209/xlsx-jsx)
+
+用 JSX/TSX 描述 Excel 工作簿并构建 XLSX，也支持将部分工作簿逆向为 JSX。
+
+`Rust` · `CLI` · `内嵌 V8`
+
+### 运维工具
+
+#### [🧽 server-sponge](https://github.com/lihongjie0209/server-sponge)
 
 面向 Linux 的动态资源占位与自动避险工具，可按目标动态调节内存和 CPU 占用，用于压测模拟、资源预留与混部环境验证。提供实时 Web 监控面板、压力模拟控制，并支持安装为 systemd 服务。
 
-Rust · Linux · PID 控制 · PSI · systemd
+`Rust` · `Linux` · `PID 控制` · `PSI` · `systemd`
 
 ## 关注方向
 
