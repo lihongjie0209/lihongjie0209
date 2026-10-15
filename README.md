@@ -20,6 +20,14 @@
 | Rust CLI · 内嵌 V8 · `docx-rs` | Rust CLI · 内嵌 V8 |
 | [查看项目与文档 →](https://github.com/lihongjie0209/docx-jsx) | [查看项目与文档 →](https://github.com/lihongjie0209/xlsx-jsx) |
 
+## 运维工具
+
+### [🧽 server-sponge](https://github.com/lihongjie0209/server-sponge)
+
+面向 Linux 的动态资源占位与自动避险工具，可按目标动态调节内存和 CPU 占用，用于压测模拟、资源预留与混部环境验证。提供实时 Web 监控面板、压力模拟控制，并支持安装为 systemd 服务。
+
+Rust · Linux · PID 控制 · PSI · systemd
+
 ## 关注方向
 
 - **文档即代码**：让 Office 文档可以版本管理、复用和自动生成。
