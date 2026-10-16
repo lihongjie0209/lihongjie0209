@@ -36,6 +36,12 @@
 
 `Rust` · `Linux` · `PID 控制` · `PSI` · `systemd`
 
+#### [🪟 nssm-rs](https://github.com/lihongjie0209/nssm-rs)
+
+用 Rust 实现的 Windows 服务管理 CLI，可安装、配置和控制服务，并监督服务进程、管理日志。
+
+`Rust` · `Windows` · `CLI` · `Windows 服务`
+
 ## 关注方向
 
 - **文档即代码**：让 Office 文档可以版本管理、复用和自动生成。
